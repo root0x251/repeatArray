@@ -15,6 +15,14 @@
 		F965936B1E54A2260033BDDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F96593691E54A2260033BDDE /* LaunchScreen.storyboard */; };
 		F96593761E54A2270033BDDE /* Array_01Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F96593751E54A2270033BDDE /* Array_01Tests.m */; };
 		F96593811E54A2270033BDDE /* Array_01UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F96593801E54A2270033BDDE /* Array_01UITests.m */; };
+		F99E5F171E56FD9A008EDA72 /* Animals.m in Sources */ = {isa = PBXBuildFile; fileRef = F99E5F161E56FD9A008EDA72 /* Animals.m */; };
+		F99E5F1A1E570FD3008EDA72 /* Dog.m in Sources */ = {isa = PBXBuildFile; fileRef = F99E5F191E570FD3008EDA72 /* Dog.m */; };
+		F99E5F1D1E570FDB008EDA72 /* Cat.m in Sources */ = {isa = PBXBuildFile; fileRef = F99E5F1C1E570FDB008EDA72 /* Cat.m */; };
+		F9D65D1F1E54A3200005D772 /* Human.m in Sources */ = {isa = PBXBuildFile; fileRef = F9D65D1E1E54A3200005D772 /* Human.m */; };
+		F9D65D221E54A4560005D772 /* Cyclest.m in Sources */ = {isa = PBXBuildFile; fileRef = F9D65D211E54A4560005D772 /* Cyclest.m */; };
+		F9D65D251E54A4680005D772 /* Runner.m in Sources */ = {isa = PBXBuildFile; fileRef = F9D65D241E54A4680005D772 /* Runner.m */; };
+		F9D65D281E54A4750005D772 /* Swimmer.m in Sources */ = {isa = PBXBuildFile; fileRef = F9D65D271E54A4750005D772 /* Swimmer.m */; };
+		F9D65D2B1E54AD0B0005D772 /* SuperMan.m in Sources */ = {isa = PBXBuildFile; fileRef = F9D65D2A1E54AD0B0005D772 /* SuperMan.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +59,22 @@
 		F965937C1E54A2270033BDDE /* Array_01UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Array_01UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F96593801E54A2270033BDDE /* Array_01UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Array_01UITests.m; sourceTree = "<group>"; };
 		F96593821E54A2270033BDDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F99E5F151E56FD9A008EDA72 /* Animals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Animals.h; sourceTree = "<group>"; };
+		F99E5F161E56FD9A008EDA72 /* Animals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Animals.m; sourceTree = "<group>"; };
+		F99E5F181E570FD3008EDA72 /* Dog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Dog.h; sourceTree = "<group>"; };
+		F99E5F191E570FD3008EDA72 /* Dog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Dog.m; sourceTree = "<group>"; };
+		F99E5F1B1E570FDB008EDA72 /* Cat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cat.h; sourceTree = "<group>"; };
+		F99E5F1C1E570FDB008EDA72 /* Cat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cat.m; sourceTree = "<group>"; };
+		F9D65D1D1E54A3200005D772 /* Human.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Human.h; sourceTree = "<group>"; };
+		F9D65D1E1E54A3200005D772 /* Human.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Human.m; sourceTree = "<group>"; };
+		F9D65D201E54A4560005D772 /* Cyclest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cyclest.h; sourceTree = "<group>"; };
+		F9D65D211E54A4560005D772 /* Cyclest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cyclest.m; sourceTree = "<group>"; };
+		F9D65D231E54A4680005D772 /* Runner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Runner.h; sourceTree = "<group>"; };
+		F9D65D241E54A4680005D772 /* Runner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Runner.m; sourceTree = "<group>"; };
+		F9D65D261E54A4750005D772 /* Swimmer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Swimmer.h; sourceTree = "<group>"; };
+		F9D65D271E54A4750005D772 /* Swimmer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Swimmer.m; sourceTree = "<group>"; };
+		F9D65D291E54AD0B0005D772 /* SuperMan.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SuperMan.h; sourceTree = "<group>"; };
+		F9D65D2A1E54AD0B0005D772 /* SuperMan.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SuperMan.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +125,24 @@
 		F965935A1E54A2260033BDDE /* Array_01 */ = {
 			isa = PBXGroup;
 			children = (
+				F9D65D1D1E54A3200005D772 /* Human.h */,
+				F9D65D1E1E54A3200005D772 /* Human.m */,
+				F99E5F151E56FD9A008EDA72 /* Animals.h */,
+				F99E5F161E56FD9A008EDA72 /* Animals.m */,
 				F965935E1E54A2260033BDDE /* AppDelegate.h */,
 				F965935F1E54A2260033BDDE /* AppDelegate.m */,
+				F99E5F181E570FD3008EDA72 /* Dog.h */,
+				F99E5F191E570FD3008EDA72 /* Dog.m */,
+				F99E5F1B1E570FDB008EDA72 /* Cat.h */,
+				F99E5F1C1E570FDB008EDA72 /* Cat.m */,
+				F9D65D201E54A4560005D772 /* Cyclest.h */,
+				F9D65D211E54A4560005D772 /* Cyclest.m */,
+				F9D65D231E54A4680005D772 /* Runner.h */,
+				F9D65D241E54A4680005D772 /* Runner.m */,
+				F9D65D261E54A4750005D772 /* Swimmer.h */,
+				F9D65D271E54A4750005D772 /* Swimmer.m */,
+				F9D65D291E54AD0B0005D772 /* SuperMan.h */,
+				F9D65D2A1E54AD0B0005D772 /* SuperMan.m */,
 				F96593611E54A2260033BDDE /* ViewController.h */,
 				F96593621E54A2260033BDDE /* ViewController.m */,
 				F96593641E54A2260033BDDE /* Main.storyboard */,
@@ -273,9 +313,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F99E5F1D1E570FDB008EDA72 /* Cat.m in Sources */,
+				F99E5F171E56FD9A008EDA72 /* Animals.m in Sources */,
+				F9D65D2B1E54AD0B0005D772 /* SuperMan.m in Sources */,
+				F99E5F1A1E570FD3008EDA72 /* Dog.m in Sources */,
 				F96593631E54A2260033BDDE /* ViewController.m in Sources */,
+				F9D65D251E54A4680005D772 /* Runner.m in Sources */,
 				F96593601E54A2260033BDDE /* AppDelegate.m in Sources */,
 				F965935D1E54A2260033BDDE /* main.m in Sources */,
+				F9D65D221E54A4560005D772 /* Cyclest.m in Sources */,
+				F9D65D1F1E54A3200005D772 /* Human.m in Sources */,
+				F9D65D281E54A4750005D772 /* Swimmer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +555,7 @@
 				F96593871E54A2270033BDDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F96593881E54A2270033BDDE /* Build configuration list for PBXNativeTarget "Array_01Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +564,7 @@
 				F965938A1E54A2270033BDDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F965938B1E54A2270033BDDE /* Build configuration list for PBXNativeTarget "Array_01UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +573,7 @@
 				F965938D1E54A2270033BDDE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
